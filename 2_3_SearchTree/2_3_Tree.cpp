@@ -18,9 +18,10 @@ eg:
 	2_3_SearchTree.exe C:\Acads\Sem_2\DSA\dataset-problem2-hw2\data1.1024
 */
 
+#include<string>
 #include "tree23.h"
 #include<fstream>
-#include<string>
+
 
 
 int main(int argc, char** argv) {
